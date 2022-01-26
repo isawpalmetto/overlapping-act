@@ -1,6 +1,6 @@
 # overlapping-act# overlapping-act
 
-run with `jest`
+run with `npm run test`
 
 Should get this error.
 
