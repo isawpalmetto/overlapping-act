@@ -1,8 +1,8 @@
 # overlapping-act# overlapping-act
-
+`nvm use` 
 run with `npm run test`
 
-Should get this error.
+Should get this error for the Cry.spec.js test:
 
  console.error
     Warning: You seem to have overlapping act() calls, this is not supported. Be sure to await previous act() calls before making a new one.
